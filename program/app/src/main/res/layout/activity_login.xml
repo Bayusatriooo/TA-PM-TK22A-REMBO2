@@ -75,6 +75,11 @@
                     android:layout_marginTop="25dp"
                     android:gravity="center_horizontal"
                     android:text="Belum mempunyai akun ?" />
+
+                <Space
+                    android:layout_width="8dp"
+                    android:layout_height="wrap_content" />
+
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
