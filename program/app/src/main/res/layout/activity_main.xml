@@ -32,6 +32,15 @@
                 android:layout_marginTop="130dp"
                 android:orientation="horizontal">
 
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cdMenu"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="20dp"
+                    android:layout_weight="1"
+                    app:cardBackgroundColor="#E1E3E5"
+                    app:cardCornerRadius="20dp">
+
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
