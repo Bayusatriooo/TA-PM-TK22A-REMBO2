@@ -68,6 +68,13 @@
                 android:layout_marginTop="-25dp"
                 android:orientation="horizontal">
 
+                <TextView
+                    android:id="@+id/txRgst"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="25dp"
+                    android:gravity="center_horizontal"
+                    android:text="Belum mempunyai akun ?" />
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
