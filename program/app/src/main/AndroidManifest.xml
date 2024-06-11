@@ -15,6 +15,9 @@
         android:theme="@style/Theme.Agrimateee"
         tools:targetApi="31">
         <activity
+            android:name=".Activity.MenuActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activity.WebViewActivity"
             android:exported="false" />
         <activity
