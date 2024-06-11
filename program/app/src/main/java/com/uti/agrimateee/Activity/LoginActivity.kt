@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.uti.agrimate.Class.db
+import com.uti.agrimateee.R
 import com.uti.agrimateee.databinding.ActivityLoginBinding
 
 class LoginActivity : AppCompatActivity() {
