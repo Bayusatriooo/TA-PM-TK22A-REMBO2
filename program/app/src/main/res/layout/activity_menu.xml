@@ -7,6 +7,14 @@
     android:layout_height="match_parent"
     tools:context=".Activity.MenuActivity">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="230dp"
+        android:background="@drawable/background"
+        android:orientation="vertical">
+</LinearLayout>
+
     <FrameLayout
         android:id="@+id/frameLayout"
         android:layout_width="match_parent"
