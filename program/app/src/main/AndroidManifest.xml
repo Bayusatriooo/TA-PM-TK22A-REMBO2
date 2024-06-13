@@ -18,10 +18,17 @@
             android:name=".Activity.SignupActivity"
             android:exported="false" />
         <activity
+<<<<<<< HEAD
+            android:name=".Activity.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SplashActivity"
+=======
             android:name=".Activity.MenuActivity"
             android:exported="false" />
         <activity
             android:name=".Activity.WebViewActivity"
+>>>>>>> 5469018dd8c7194f26366ab23c8828ac9abb1950
             android:exported="false" />
         <activity
             android:name=".Activity.MainActivity"
