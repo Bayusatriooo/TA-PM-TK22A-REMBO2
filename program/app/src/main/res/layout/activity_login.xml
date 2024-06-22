@@ -28,7 +28,7 @@
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Sign In"
+                android:text="membuat akun"
                 android:textSize="20dp"
                 android:gravity="center"
                 android:layout_marginTop="55dp" />
