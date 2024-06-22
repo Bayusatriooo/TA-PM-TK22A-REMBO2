@@ -84,9 +84,9 @@
                     android:id="@+id/txRegis"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="20dp"
+                    android:layout_marginTop="25dp"
                     android:gravity="center_horizontal"
-                    android:text="Sign up"
+                    android:text="Membuat"
                     android:textColor="#2196F3" />
 
             </LinearLayout>
