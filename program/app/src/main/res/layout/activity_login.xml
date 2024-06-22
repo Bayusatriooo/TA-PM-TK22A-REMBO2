@@ -57,9 +57,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="20dp"
-                android:background="#FFFF00"
+                android:background="#2196F3"
 
-                android:text="Sign In" />
+                android:text="Masuk" />
 
             <LinearLayout
                 android:layout_width="330dp"
