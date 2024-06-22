@@ -72,9 +72,9 @@
                     android:id="@+id/txRgst"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="20dp"
+                    android:layout_marginTop="25dp"
                     android:gravity="center_horizontal"
-                    android:text="Belum mempunyai akun ?" />
+                    android:text="Apa Belum mempunyai akun ?" />
 
                 <Space
                     android:layout_width="8dp"
