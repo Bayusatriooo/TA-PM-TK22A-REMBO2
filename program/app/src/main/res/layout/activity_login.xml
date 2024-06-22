@@ -30,8 +30,8 @@
                 android:layout_height="wrap_content"
                 android:text="Sign in"
                 android:textSize="20dp"
-                android:gravity="left"
-                android:layout_marginTop="55dp" />
+                android:gravity="center"
+                android:layout_marginTop="50dp" />
 
             <EditText
                 android:id="@+id/Username"
