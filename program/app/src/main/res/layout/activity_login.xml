@@ -28,9 +28,9 @@
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="membuat akun"
+                android:text="Sign in"
                 android:textSize="20dp"
-                android:gravity="center"
+                android:gravity="left"
                 android:layout_marginTop="55dp" />
 
             <EditText
