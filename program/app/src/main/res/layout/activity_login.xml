@@ -31,13 +31,13 @@
                 android:text="Sign in"
                 android:textSize="20dp"
                 android:gravity="center"
-                android:layout_marginTop="50dp" />
+                android:layout_marginTop="55dp" />
 
             <EditText
                 android:id="@+id/Username"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Username"
+                android:hint="Nama pengguna"
                 android:layout_marginRight="20dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="40dp" />
